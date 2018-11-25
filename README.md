@@ -1,2 +1,2 @@
-# chaos-clock
-A Stochastic Clock that Computes the Correct Time Asymptotically
+# Chaos Clock
+A stochastic clock that computes the correct time only on average.
